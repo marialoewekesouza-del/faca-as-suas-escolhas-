@@ -23,7 +23,7 @@ main{
 }
 
 button{
-    background-color: var(--laranja);
+    background-color: var(--rosa);
     font-size: 22px;
     padding: 4px;
     border-radius: 10px;
